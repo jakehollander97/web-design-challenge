@@ -12,7 +12,7 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background: #d8c00e;
+    background: whitesmoke;
     position:relative;
   }
   /* body .first_line{background: yellowgreen;
@@ -24,21 +24,21 @@ body {
     left:50px;
   } */
 
-  #first_line_color{background: yellowgreen;
+  #first_line_color{background: whitesmoke;
 
     width: 100%;
     height: 100%;
-    background-color: yellowgreen;
+    background-color: whitesmoke;
     position:relative;
     display:inline-block;
     left:0px;
   }
 
-  body .row1{background: yellowgreen;
+  body .row1{background: black;
 
     width: 100%;
     height: 100%;
-    background-color: yellowgreen;
+    background-color: whitesmoke;
     position:relative;
     display:inline-block;
     left:0px;
@@ -48,14 +48,14 @@ body {
   .first_line >.div1 {
     width: 170px;
     height: 60px;
-    border: 1px solid blue;
+    border: 1px solid black;
     background-color: rgb(46, 159, 163); 
     position:relative;
     display:inline-block;
     left:50px;
   }
   /* .first_line>.first_line_blank>p{display:inline-block;} */
-  .first_line>.div1>h1{text-align: center; color:red}
+  .first_line>.div1>h1{text-align: center; color:black}
 
   /* .btn-group{position:absolute;
     right:200px;
@@ -70,7 +70,7 @@ body {
     /* float:right} */
 
   header {
-    background: blue;
+    background: whitesmoke;
   }
   
   header>h1 {
@@ -79,7 +79,7 @@ body {
     margin-bottom: 0px;
     font-size: 48px;
     /* color: #eee; */
-    color:yellowgreen;
+    color:black;
     text-align: left;
   }
   
@@ -94,7 +94,7 @@ body {
   .Col_container{
     /* margin-left:30px;*/
     margin:30px; 
-    background: rgb(160, 97, 97);
+    background: rgb(46, 159, 163);
   /* color:rgb(192, 146, 146); */
   }
 
@@ -109,7 +109,7 @@ body {
     margin-left: 10px ;
     margin-right: 10px ;
     padding: 5px;
-    background:green;
+    background:whitesmoke;
   }
 
   .container2 {
@@ -120,7 +120,7 @@ body {
     margin-left: 10px ;
     margin-right: 10px ;
     padding: 20px;
-    background: yellow;
+    background: whitesmoke;
   }
   
   #main_figure{
@@ -145,7 +145,7 @@ body {
 .container>h2{position:relative;
     right:500px;
     top:0px;
-    color:yellow;
+    color:black;
     font-size:400
 }
 
@@ -165,12 +165,12 @@ header>h2 {
   margin: 0px;
   margin-bottom: 0px;
   font-size: 28px;
-  color:whitesmoke;
+  color:black;
   text-align: center;
 }
 
 figure figcaption {
   border: whitesmoke;
   text-align: center;
-  color:rgb(39, 228, 140);
+  color:black;
 }
